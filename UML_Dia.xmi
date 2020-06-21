@@ -1,0 +1,712 @@
+<?xml version = '1.0' encoding = 'UTF-8' ?>
+<XMI xmi.version = '1.2' xmlns:UML = 'org.omg.xmi.namespace.UML' timestamp = 'Sun Jun 21 15:07:02 CEST 2020'>
+  <XMI.header>    <XMI.documentation>
+      <XMI.exporter>ArgoUML (using Netbeans XMI Writer version 1.0)</XMI.exporter>
+      <XMI.exporterVersion>0.34(6) revised on $Date: 2010-01-11 22:20:14 +0100 (Mon, 11 Jan 2010) $ </XMI.exporterVersion>
+    </XMI.documentation>
+    <XMI.metamodel xmi.name="UML" xmi.version="1.4"/></XMI.header>
+  <XMI.content>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AF2'
+      name = 'price' isSpecification = 'false' kind = 'in'>
+      <UML:Parameter.type>
+        <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+      </UML:Parameter.type>
+    </UML:Parameter>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AF3'
+      name = 'doors' isSpecification = 'false' kind = 'in'>
+      <UML:Parameter.type>
+        <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+      </UML:Parameter.type>
+    </UML:Parameter>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AEC'
+      name = 'price' isSpecification = 'false' kind = 'in'>
+      <UML:Parameter.type>
+        <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+      </UML:Parameter.type>
+    </UML:Parameter>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AED'
+      name = 'doors' isSpecification = 'false' kind = 'in'>
+      <UML:Parameter.type>
+        <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+      </UML:Parameter.type>
+    </UML:Parameter>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AEE'
+      name = 'price' isSpecification = 'false' kind = 'in'>
+      <UML:Parameter.type>
+        <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+      </UML:Parameter.type>
+    </UML:Parameter>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AEF'
+      name = 'doors' isSpecification = 'false' kind = 'in'>
+      <UML:Parameter.type>
+        <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+      </UML:Parameter.type>
+    </UML:Parameter>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AF0'
+      name = 'price' isSpecification = 'false' kind = 'in'>
+      <UML:Parameter.type>
+        <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+      </UML:Parameter.type>
+    </UML:Parameter>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AF1'
+      name = 'doors' isSpecification = 'false' kind = 'in'>
+      <UML:Parameter.type>
+        <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+      </UML:Parameter.type>
+    </UML:Parameter>
+    <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B77'
+      name = 'arg2' isSpecification = 'false' kind = 'in'/>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AE6'
+      name = 'engineType' isSpecification = 'false' kind = 'in'/>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AE7'
+      name = 'doors' isSpecification = 'false' kind = 'in'/>
+    <UML:Parameter xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AE8'
+      name = 'maxSpeed' isSpecification = 'false' kind = 'in'/>
+    <UML:Model xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B5D'
+      name = 'Cars' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+      isAbstract = 'false'>
+      <UML:ModelElement.stereotype>
+        <UML:Stereotype xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B5E'/>
+      </UML:ModelElement.stereotype>
+      <UML:Namespace.ownedElement>
+        <UML:Stereotype xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B5E'
+          name = 'profile' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'/>
+        <UML:Class xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B5F'
+          name = 'AbstractCars' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'>
+          <UML:ModelElement.clientDependency>
+            <UML:Abstraction xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C02'/>
+            <UML:Abstraction xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C04'/>
+          </UML:ModelElement.clientDependency>
+          <UML:Classifier.feature>
+            <UML:Attribute xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B60'
+              name = 'name' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              changeability = 'changeable' targetScope = 'instance'>
+              <UML:StructuralFeature.multiplicity>
+                <UML:Multiplicity xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B61'>
+                  <UML:Multiplicity.range>
+                    <UML:MultiplicityRange xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B62'
+                      lower = '1' upper = '1'/>
+                  </UML:Multiplicity.range>
+                </UML:Multiplicity>
+              </UML:StructuralFeature.multiplicity>
+              <UML:StructuralFeature.type>
+                <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B63'/>
+              </UML:StructuralFeature.type>
+            </UML:Attribute>
+            <UML:Attribute xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B67'
+              name = 'price' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              changeability = 'changeable' targetScope = 'instance'>
+              <UML:StructuralFeature.multiplicity>
+                <UML:Multiplicity xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B68'>
+                  <UML:Multiplicity.range>
+                    <UML:MultiplicityRange xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B69'
+                      lower = '1' upper = '1'/>
+                  </UML:Multiplicity.range>
+                </UML:Multiplicity>
+              </UML:StructuralFeature.multiplicity>
+              <UML:StructuralFeature.type>
+                <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+              </UML:StructuralFeature.type>
+            </UML:Attribute>
+            <UML:Attribute xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B70'
+              name = 'doors' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              changeability = 'changeable' targetScope = 'instance'>
+              <UML:StructuralFeature.multiplicity>
+                <UML:Multiplicity xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B71'>
+                  <UML:Multiplicity.range>
+                    <UML:MultiplicityRange xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B72'
+                      lower = '1' upper = '1'/>
+                  </UML:Multiplicity.range>
+                </UML:Multiplicity>
+              </UML:StructuralFeature.multiplicity>
+              <UML:StructuralFeature.type>
+                <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+              </UML:StructuralFeature.type>
+            </UML:Attribute>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B73'
+              name = 'Cars' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B74'
+                  name = 'return' isSpecification = 'false' kind = 'return'/>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B75'
+              name = 'fuelUsage' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B76'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B7A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B78'
+              name = 'mileage' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B79'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B7A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B7D'
+              name = 'getName' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B7E'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B63'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B81'
+              name = 'getPrice' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B82'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Attribute xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B85'
+              name = 'maxSpeed' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              changeability = 'changeable' targetScope = 'instance'>
+              <UML:StructuralFeature.multiplicity>
+                <UML:Multiplicity xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B86'>
+                  <UML:Multiplicity.range>
+                    <UML:MultiplicityRange xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B87'
+                      lower = '1' upper = '1'/>
+                  </UML:Multiplicity.range>
+                </UML:Multiplicity>
+              </UML:StructuralFeature.multiplicity>
+              <UML:StructuralFeature.type>
+                <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+              </UML:StructuralFeature.type>
+            </UML:Attribute>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B88'
+              name = 'getDoors' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B89'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B8A'
+              name = 'getMaxSpeed' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B8B'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Attribute xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B17'
+              name = 'fuelUsage' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              changeability = 'changeable' targetScope = 'instance'>
+              <UML:StructuralFeature.multiplicity>
+                <UML:Multiplicity xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B18'>
+                  <UML:Multiplicity.range>
+                    <UML:MultiplicityRange xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B19'
+                      lower = '1' upper = '1'/>
+                  </UML:Multiplicity.range>
+                </UML:Multiplicity>
+              </UML:StructuralFeature.multiplicity>
+              <UML:StructuralFeature.type>
+                <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B7A'/>
+              </UML:StructuralFeature.type>
+            </UML:Attribute>
+            <UML:Attribute xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B1A'
+              name = 'mileage' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              changeability = 'changeable' targetScope = 'instance'>
+              <UML:StructuralFeature.multiplicity>
+                <UML:Multiplicity xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B1B'>
+                  <UML:Multiplicity.range>
+                    <UML:MultiplicityRange xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B1C'
+                      lower = '1' upper = '1'/>
+                  </UML:Multiplicity.range>
+                </UML:Multiplicity>
+              </UML:StructuralFeature.multiplicity>
+              <UML:StructuralFeature.type>
+                <UML:Class xmi.idref = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B1D'/>
+              </UML:StructuralFeature.type>
+            </UML:Attribute>
+            <UML:Attribute xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B1E'
+              name = 'releaseYear' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              changeability = 'changeable' targetScope = 'instance'>
+              <UML:StructuralFeature.multiplicity>
+                <UML:Multiplicity xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B1F'>
+                  <UML:Multiplicity.range>
+                    <UML:MultiplicityRange xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B20'
+                      lower = '1' upper = '1'/>
+                  </UML:Multiplicity.range>
+                </UML:Multiplicity>
+              </UML:StructuralFeature.multiplicity>
+              <UML:StructuralFeature.type>
+                <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+              </UML:StructuralFeature.type>
+            </UML:Attribute>
+            <UML:Operation xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B21'
+              name = 'getReleaseYear' visibility = 'public' isSpecification = 'false'
+              ownerScope = 'instance' isQuery = 'false' concurrency = 'sequential' isRoot = 'false'
+              isLeaf = 'false' isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B22'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+          </UML:Classifier.feature>
+        </UML:Class>
+        <UML:Class xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B63'
+          name = 'string' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'/>
+        <UML:Class xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'
+          name = 'int' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'/>
+        <UML:Class xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B7A'
+          name = 'float' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'/>
+        <UML:Class xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B90'
+          name = 'Racing' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'>
+          <UML:GeneralizableElement.generalization>
+            <UML:Generalization xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BF0'/>
+          </UML:GeneralizableElement.generalization>
+          <UML:Classifier.feature>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BA3'
+              name = 'Suv' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BA4'
+                  name = 'return' isSpecification = 'false' kind = 'return'/>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BA5'
+                  name = 'name' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B63'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BA6'
+                  name = 'price' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C07'
+                  name = 'doors' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+          </UML:Classifier.feature>
+        </UML:Class>
+        <UML:Class xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B92'
+          name = 'Suv' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'>
+          <UML:GeneralizableElement.generalization>
+            <UML:Generalization xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BEF'/>
+          </UML:GeneralizableElement.generalization>
+          <UML:Classifier.feature>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B9B'
+              name = 'Suv' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B9C'
+                  name = 'return' isSpecification = 'false' kind = 'return'/>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B9D'
+                  name = 'name' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B63'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B9E'
+                  name = 'price' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C06'
+                  name = 'doors' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+          </UML:Classifier.feature>
+        </UML:Class>
+        <UML:Class xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B96'
+          name = 'Sedan' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'>
+          <UML:GeneralizableElement.generalization>
+            <UML:Generalization xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BF1'/>
+          </UML:GeneralizableElement.generalization>
+          <UML:Classifier.feature>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B9F'
+              name = 'Sedan' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BA0'
+                  name = 'return' isSpecification = 'false' kind = 'return'/>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BA1'
+                  name = 'name' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B63'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BA2'
+                  name = 'price' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C09'
+                  name = 'doors' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+          </UML:Classifier.feature>
+        </UML:Class>
+        <UML:Class xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B97'
+          name = 'HatchBack' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'>
+          <UML:GeneralizableElement.generalization>
+            <UML:Generalization xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BF2'/>
+          </UML:GeneralizableElement.generalization>
+          <UML:Classifier.feature>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BA7'
+              name = 'HatchBack' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BA8'
+                  name = 'return' isSpecification = 'false' kind = 'return'/>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BA9'
+                  name = 'name' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B63'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BAA'
+                  name = 'price' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C08'
+                  name = 'doors' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+          </UML:Classifier.feature>
+        </UML:Class>
+        <UML:Generalization xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BEF'
+          isSpecification = 'false'>
+          <UML:Generalization.child>
+            <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B92'/>
+          </UML:Generalization.child>
+          <UML:Generalization.parent>
+            <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B5F'/>
+          </UML:Generalization.parent>
+        </UML:Generalization>
+        <UML:Generalization xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BF0'
+          isSpecification = 'false'>
+          <UML:Generalization.child>
+            <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B90'/>
+          </UML:Generalization.child>
+          <UML:Generalization.parent>
+            <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B5F'/>
+          </UML:Generalization.parent>
+        </UML:Generalization>
+        <UML:Generalization xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BF1'
+          isSpecification = 'false'>
+          <UML:Generalization.child>
+            <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B96'/>
+          </UML:Generalization.child>
+          <UML:Generalization.parent>
+            <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B5F'/>
+          </UML:Generalization.parent>
+        </UML:Generalization>
+        <UML:Generalization xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BF2'
+          isSpecification = 'false'>
+          <UML:Generalization.child>
+            <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B97'/>
+          </UML:Generalization.child>
+          <UML:Generalization.parent>
+            <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B5F'/>
+          </UML:Generalization.parent>
+        </UML:Generalization>
+        <UML:Class xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BF3'
+          name = 'Main' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'>
+          <UML:Classifier.feature>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BF4'
+              name = 'main' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BF5'
+                  name = 'return' isSpecification = 'false' kind = 'return'/>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BF6'
+                  name = 'args[]' isSpecification = 'false' kind = 'in'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B63'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+          </UML:Classifier.feature>
+        </UML:Class>
+        <UML:Interface xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BFC'
+          name = 'Cars' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false'>
+          <UML:Classifier.feature>
+            <UML:Operation xmi.id = '10-65-66--108-7d8a8a5a:15f29e2011b:-8000:0000000000000AF8'
+              name = 'IsSuv' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-66--108-7d8a8a5a:15f29e2011b:-8000:0000000000000AF9'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B02'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '10-65-66--108-7d8a8a5a:15f29e2011b:-8000:0000000000000AFA'
+              name = 'IsSedan' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-66--108-7d8a8a5a:15f29e2011b:-8000:0000000000000AFB'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B02'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B03'
+              name = 'IsRacing' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B04'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B02'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B05'
+              name = 'IsHatchBack' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B06'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B02'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B0B'
+              name = 'getName' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B0C'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B63'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B0D'
+              name = 'getPrice' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B0E'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B0F'
+              name = 'getDoors' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B10'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B11'
+              name = 'Is4WD' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B12'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B02'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B13'
+              name = 'fuelUsage' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B14'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B7A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B15'
+              name = 'mileage' visibility = 'public' isSpecification = 'false' ownerScope = 'instance'
+              isQuery = 'false' concurrency = 'sequential' isRoot = 'false' isLeaf = 'false'
+              isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B16'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B7A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+            <UML:Operation xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B2F'
+              name = 'getReleaseYear' visibility = 'public' isSpecification = 'false'
+              ownerScope = 'instance' isQuery = 'false' concurrency = 'sequential' isRoot = 'false'
+              isLeaf = 'false' isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B30'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B6A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+          </UML:Classifier.feature>
+        </UML:Interface>
+        <UML:Interface xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BFF'
+          name = 'fuelTank' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false'>
+          <UML:Classifier.feature>
+            <UML:Operation xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C00'
+              name = 'fuelConsumption' visibility = 'public' isSpecification = 'false'
+              ownerScope = 'instance' isQuery = 'false' concurrency = 'sequential' isRoot = 'false'
+              isLeaf = 'false' isAbstract = 'false'>
+              <UML:BehavioralFeature.parameter>
+                <UML:Parameter xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C01'
+                  name = 'return' isSpecification = 'false' kind = 'return'>
+                  <UML:Parameter.type>
+                    <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B7A'/>
+                  </UML:Parameter.type>
+                </UML:Parameter>
+              </UML:BehavioralFeature.parameter>
+            </UML:Operation>
+          </UML:Classifier.feature>
+        </UML:Interface>
+        <UML:Abstraction xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C02'
+          isSpecification = 'false'>
+          <UML:ModelElement.stereotype>
+            <UML:Stereotype xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C03'/>
+          </UML:ModelElement.stereotype>
+          <UML:Dependency.client>
+            <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B5F'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Interface xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BFC'/>
+          </UML:Dependency.supplier>
+        </UML:Abstraction>
+        <UML:Stereotype xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C03'
+          name = 'realize' isSpecification = 'false' isRoot = 'false' isLeaf = 'false'
+          isAbstract = 'false'>
+          <UML:Stereotype.baseClass>Abstraction</UML:Stereotype.baseClass>
+        </UML:Stereotype>
+        <UML:Abstraction xmi.id = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C04'
+          isSpecification = 'false'>
+          <UML:ModelElement.stereotype>
+            <UML:Stereotype xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000C03'/>
+          </UML:ModelElement.stereotype>
+          <UML:Dependency.client>
+            <UML:Class xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000B5F'/>
+          </UML:Dependency.client>
+          <UML:Dependency.supplier>
+            <UML:Interface xmi.idref = '-64--88-0-66--119ba7ad:15f14f983e5:-8000:0000000000000BFF'/>
+          </UML:Dependency.supplier>
+        </UML:Abstraction>
+        <UML:Class xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AE5'
+          name = 'name' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'/>
+        <UML:Class xmi.id = '127-0-0-1-35e3be15:15f25b07aba:-8000:0000000000000AE9'
+          name = 'String' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'/>
+        <UML:Class xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B02'
+          name = 'Boolean' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'/>
+        <UML:Class xmi.id = '10-65-64-89-1735adb4:15f337f383e:-8000:0000000000000B1D'
+          name = 'flaot' visibility = 'public' isSpecification = 'false' isRoot = 'false'
+          isLeaf = 'false' isAbstract = 'false' isActive = 'false'/>
+      </UML:Namespace.ownedElement>
+    </UML:Model>
+  </XMI.content>
+</XMI>
