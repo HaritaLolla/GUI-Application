@@ -1,9 +1,9 @@
 # GUI Application
  
-A simple GUI application that collects, stores and dislpays cars information. To get an overview refer to the UML diagram as it highlights the classes, their dependencies, methods and properperties that are used in this project. 
+A simple GUI application that collects, stores and displays the information of cars. To get an overview refer to the UML diagram as it highlights the classes, their dependencies, methods and properperties that are used in this project. 
  
  This project consists of three parts:
-  1. The application package is responsible fetching the information from the database and displaying it on the screen in the form of        GUI. 
+  1. The application package is responsible fetching the data from the database and displaying it onto the screen in the form of GUI. 
      Ex: 
      1.Cars:Porsche Cayenne S; Category:Racing; Price:2005463 EUR; Year:2017
      2.Cars:Ferrari 599 GTB; Category:Racing; Price:29658453 EUR; Year:2015
@@ -24,3 +24,4 @@ A simple GUI application that collects, stores and dislpays cars information. To
   3. The src package is responsible for database operations such as inserting new data, deleting the exsisiting data and allows              navigation through the exisiting data in the database. 
      
 In this project Apache Maven was used for managing the build, reporting and documentation.
+To view the complete project check the Cars GUI.zip folder.
