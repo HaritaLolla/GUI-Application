@@ -1,6 +1,6 @@
 # GUI Application
  
-It is a simple GUI application that collects, stores and dislpays cars information. To get an overview refer to the UML diagram as it highlights the classes, their dependencies, methods and properperties that are used in this project. 
+A simple GUI application that collects, stores and dislpays cars information. To get an overview refer to the UML diagram as it highlights the classes, their dependencies, methods and properperties that are used in this project. 
  
  This project consists of three parts:
   1. The application package is responsible fetching the information from the database and displaying it on the screen in the form of        GUI. 
